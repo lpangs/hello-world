@@ -1,3 +1,3 @@
 # hello-world
-第一个github
-记录我的github学习之旅
+{"name":"foo","profiles":["dev"],"label":"master",
+"version":"792ffc77c03f4b138d28e89b576900ac5e01a44b","state":null,"propertySources":[]}
